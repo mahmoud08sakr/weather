@@ -1,0 +1,60 @@
+.icons ul {
+    list-style-type: none;
+
+}
+
+nav {
+    background: #1e202b;
+    color: antiquewhite;
+}
+
+.search {
+    color: #1e202b;
+
+}
+input{
+    color: white;
+}
+
+#searchBar {
+    background-image: url(/css/banner.png);
+    background-position: center;
+    background-size: cover;
+    height: 40vh;
+  
+}
+
+#divs {
+    background: #1e202b;
+
+}
+
+.backColor {
+    background-color: #323544;
+    color: white;
+}
+
+.backMidColor {
+    background-color: #2a2a37;
+    color: white;
+}
+
+#fotter {
+    background-color: #323544;
+}
+
+.icons i {
+    color: aqua;
+
+
+}
+
+
+.icons i .fa
+
+a {
+    width: 50px;
+}
+.inputColor{
+background-color: #2a2a37;
+}
